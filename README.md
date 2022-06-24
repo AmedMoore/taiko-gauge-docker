@@ -1,1 +1,1 @@
-# taiko-gauge-docker
+# Docker Image for Taiko + Gauge
